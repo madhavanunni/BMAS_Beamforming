@@ -28,7 +28,7 @@ This application allows you to:
 
 #### ACADEMIC REFERENCES TO BE CITED:
 Details of the BMAS beamforming is available in the following articles by A. N. Madhavanunni and Mahesh Raveendranatha Panicker <br />
-1. Beam Multiply and Sum: A Tradeoff between Delay and Sum and Delay Multiply and Sum Beamforming for Ultrafast Ultrasound Imaging. 2022<br />
+1. A. N. Madhavanunni and Mahesh Raveendranatha Panicker. [Beam multiply and sum: A tradeoff between delay and sum and filtered delay multiply and sum beamforming for ultrafast ultrasound imaging](https://doi.org/10.1016/j.bspc.2023.104807). Biomedical Signal Processing and Control 85 (2023): 104807.<br />
 
 2. A. N. Madhavanunni and Mahesh Raveendranatha Panicker, [Lesion Detectability and Contrast Enhancement with Beam Multiply and Sum Beamforming for Non-Steered Plane Wave Ultrasound Imaging](https://doi.org/10.1109/ISBI52829.2022.9761662). _IEEE 19th International Symposium on Biomedical Imaging (ISBI)_, Kolkata, India, 2022. 
 
