@@ -1,0 +1,6 @@
+Please note that the source code has the following dependencies:
+
+(a) PICMUS dataset: carotid_cross_expe_dataset_rf.hdf5
+
+Download the dataset from https://www.creatis.insa-lyon.fr/Challenge/IEEE_IUS_2016/sites/www.creatis.insa-lyon.fr.Challenge.IEEE_IUS_2016/files/in_vivo.zip and place 'carotid_cross_expe_dataset_rf.hdf5' in data/ before running the codes.
+
