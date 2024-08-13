@@ -1,4 +1,8 @@
-%-- Implements the conventional Delay And Sum (DAS) beamforming 
+%-------------------------------------------------------------------------%
+%-- Implements the conventional Delay And Sum (DAS) beamforming
+%-- Dependencies:
+%-- apodization.m from PICMUS evaluation code
+%-------------------------------------------------------------------------%
 function beamformedData=DAS(dataCube,x_grid,z_grid,probe_geometry)
 
 N_elements=size(dataCube,3);
